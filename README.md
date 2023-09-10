@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java and Web Development**
 
-- 👯 I’m looking to collaborate on **Web Development and java pr**
+- 👯 I’m looking to collaborate on **Web Development and java**
 
 - 📫 How to reach me **itsprince@gmail.com**
 
