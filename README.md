@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Java Advance**
+- 🔭 I’m currently working on **Spring Boot**
 
-- 🌱 I’m currently learning **Java and Web Development**
+- 🌱 I’m currently learning **Java Advance , SpringBoot and Web Development**
 
-- 👯 I’m looking to collaborate on **Web Development and java**
+- 👯 I’m looking to collaborate on **SpringBoot**
 
 - 📫 How to reach me **itsprince@gmail.com**
 
